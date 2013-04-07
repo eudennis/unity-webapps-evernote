@@ -1,0 +1,18 @@
+Source: unity-webapps-evernote
+Section: web
+Priority: extra
+Standards-Version: 0.0.2
+Maintainer: Dennis Altermann <dennisaltermann@gmail.com>
+Build-Depends: debhelper (>=7)
+Homepage: https://evernote.com/
+
+Package: unity-webapps-evernote
+Architecture: all
+Section: web
+Priority: extra
+Depends: unity-webapps-common, xdg-utils, ${misc:Depends}
+XB-Ubuntu-Webapps-Includes: https://*.evernote.net/*;https://evernote.net/*;http://*.evernote.net/*;http://evernote.net/*
+XB-Ubuntu-Webapps-Name: Evernote
+XB-Ubuntu-Webapps-Domain: evernote.com
+Description: Unity Webapp for Evernote
+ Evernote Webapp for Unity
