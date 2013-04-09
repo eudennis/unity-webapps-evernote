@@ -10,5 +10,5 @@
 window.Unity = external.getUnityObject(1.0);
  
 Unity.init({ name: "Evernote",
-            iconUrl: 'icon://evernote-webapps-pocket',
+            iconUrl: 'icon://unity-webapps-evernote',
             onInit: null });
