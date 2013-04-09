@@ -2,7 +2,7 @@
 // @name Evernote-Unity-Integration
 // @include http://www.evernote.com/*
 // @include https://www.evernote.com/*
-// @version 0.1
+// @version 1.01
 // @author Dennis Altermann
 // @require utils.js
 // ==/UserScript==
