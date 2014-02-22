@@ -1,18 +1,18 @@
-Source: unity-webapps-tweetdeck
+Source: unity-webapps-evernote
 Section: web
 Priority: extra
-Standards-Version: 1.0
+Standards-Version: 1.0.1
 Maintainer: Dennis Altermann <dennisaltermann@gmail.com>
 Build-Depends: debhelper (>=7)
-Homepage: https://tweetdeck.twitter.com/
+Homepage: https://evernote.com/
 
-Package: unity-webapps-tweetdeck
+Package: unity-webapps-evernote
 Architecture: all
 Section: web
 Priority: extra
 Depends: unity-webapps-common, xdg-utils, ${misc:Depends}
-XB-Ubuntu-Webapps-Includes: https://tweetdeck.twitter.com/*;
-XB-Ubuntu-Webapps-Name: Tweetdeck
-XB-Ubuntu-Webapps-Domain: tweetdeck.twitter.com
-Description: Unity Webapp for Tweetdeck
- Tweetdeck Webapp for Unity
+XB-Ubuntu-Webapps-Includes: https://*.evernote.net/*;https://evernote.net/*;http://*.evernote.net/*;http://evernote.net/*
+XB-Ubuntu-Webapps-Name: Evernote
+XB-Ubuntu-Webapps-Domain: evernote.com
+Description: Unity Webapp for Evernote
+ Evernote Webapp for Unity
