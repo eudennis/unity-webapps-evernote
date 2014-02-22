@@ -1,7 +1,7 @@
 Evernote Webapp integration for Ubuntu Unity
 ===================
 
-<h2>Evernote basici ntegration with Ubuntu Unity desktop.</h2>
+<h2>Evernote basic integration with Ubuntu Unity desktop.</h2>
 
 <p>For more information about Ubuntu Unity Web apps see this: http://developer.ubuntu.com/resources/technologies/webapps/</p>
 
